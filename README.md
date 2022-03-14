@@ -1,6 +1,6 @@
 # Jogo da adivinhação 👀️
 
-##Você deve escolher uma fruta e dizer ao programa a letra dos grupos em que ela aparece.
+## Você deve escolher uma fruta e dizer ao programa a letra dos grupos em que ela aparece.
 
 **Por exemplo:**
 
